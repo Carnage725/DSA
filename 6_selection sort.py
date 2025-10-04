@@ -1,4 +1,4 @@
-# selection sort
+# selection sort implementation
 def selectionSort(arr):
     for i in range(len(arr) - 1):
         min_idx = i
