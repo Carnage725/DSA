@@ -1,4 +1,4 @@
-# duplicate 2
+# duplicate 2 implementation
 def duplicate2(arr):
     newArr = []
     for i in range(len(arr)):
