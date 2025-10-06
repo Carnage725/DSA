@@ -1,25 +1,17 @@
 # stack based code linter
-def matching(opening, closing):
-    hashTable = { '(': ')', '{': '}', '[': ']' }
-    return closing == hashTable[opening]
+# leetcode 20
+class Solution:
+    def isValid(self, s: str) -> bool:
+        pairs = {')': '(', ']': '[', '}': '{'}
+        stack = []
 
-def stackLinter(str):
-    stack = []
-    opening = set("({[")
-    closing = set(")}]")
-    
-    for ch in str:
-        if ch in opening:
-            stack.append(ch)
-        elif ch in closing:    
-            temp = stack.pop()
-            
-            if temp not in opening:
-                return "There is no opening brace"
-            if matching(temp, ch) == False:
-                return "There is a mismatch"
-            
-    if len(stack) != 0:
-        return "There is no closing brace"
-        
-    return "All braces are balanced"
+        for ch in s:
+            if ch in pairs.values():        
+                stack.append(ch)
+            elif ch in pairs:               
+                if not stack:               
+                    return False
+                if stack.pop() != pairs[ch]:
+                    return False
+                
+        return not stack  
