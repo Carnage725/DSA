@@ -1,7 +1,7 @@
 # stack based code linter
 def matching(opening, closing):
     hashTable = { '(': ')', '{': '}', '[': ']' }
-    closing != hashTable[opening]
+    return closing == hashTable[opening]
 
 def stackLinter(str):
     stack = []
