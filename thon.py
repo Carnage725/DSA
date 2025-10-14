@@ -31,6 +31,3 @@ class Solution:
 
         return sum(stack)
 
-solution = Solution()
-print(solution.calculate(" 3+5 / 2 "))  # Output: 5
-print(solution.calculate("14-3/2"))      # Output: 13
