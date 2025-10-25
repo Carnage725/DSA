@@ -1,0 +1,159 @@
+Chapter,Topic,Problem Number,Problem Name,Difficulty,Key Concepts
+1-2,Arrays & Binary Search,1,Two Sum,Easy,"Array basics, Hash Table"
+1-2,Arrays & Binary Search,26,Remove Duplicates from Sorted Array,Easy,Array manipulation
+1-2,Arrays & Binary Search,27,Remove Element,Easy,Array deletion
+1-2,Arrays & Binary Search,35,Search Insert Position,Easy,Binary Search basics
+1-2,Arrays & Binary Search,704,Binary Search,Easy,Binary Search implementation
+1-2,Arrays & Binary Search,278,First Bad Version,Easy,Binary Search variant
+1-2,Arrays & Binary Search,34,Find First and Last Position,Medium,Binary Search bounds
+1-2,Arrays & Binary Search,33,Search in Rotated Sorted Array,Medium,Modified Binary Search
+1-2,Arrays & Binary Search,153,Find Minimum in Rotated Array,Medium,Binary Search application
+1-2,Arrays & Binary Search,4,Median of Two Sorted Arrays,Hard,Advanced Binary Search
+3-5,Sorting Algorithms,912,Sort an Array,Medium,Implement sorting algorithms
+3-5,Sorting Algorithms,75,Sort Colors,Medium,Three-way partitioning
+3-5,Sorting Algorithms,215,Kth Largest Element,Medium,Selection-based sorting
+3-5,Sorting Algorithms,88,Merge Sorted Array,Easy,Merging sorted arrays
+3-5,Sorting Algorithms,148,Sort List,Medium,Merge sort on linked list
+3-5,Sorting Algorithms,56,Merge Intervals,Medium,Sorting application
+6,Insertion Sort,147,Insertion Sort List,Medium,Insertion sort implementation
+7,Complexity Analysis,217,Contains Duplicate,Easy,O(n) time complexity
+7,Complexity Analysis,219,Contains Duplicate II,Easy,Sliding window
+7,Complexity Analysis,169,Majority Element,Easy,Frequency counting
+7,Complexity Analysis,268,Missing Number,Easy,Mathematical approach
+7,Complexity Analysis,448,Find All Numbers Disappeared,Easy,Array marking
+8,Hash Tables,1,Two Sum,Easy,Hash table lookup
+8,Hash Tables,49,Group Anagrams,Medium,Hash table grouping
+8,Hash Tables,128,Longest Consecutive Sequence,Medium,Hash set operations
+8,Hash Tables,242,Valid Anagram,Easy,Frequency counting
+8,Hash Tables,383,Ransom Note,Easy,Hash map usage
+8,Hash Tables,387,First Unique Character,Easy,Hash map ordering
+8,Hash Tables,290,Word Pattern,Easy,Hash map mapping
+8,Hash Tables,347,Top K Frequent Elements,Medium,Hash + Heap
+8,Hash Tables,349,Intersection of Two Arrays,Easy,Set operations
+8,Hash Tables,350,Intersection of Two Arrays II,Easy,Hash map counting
+9,Stacks & Queues,20,Valid Parentheses,Easy,Stack basics
+9,Stacks & Queues,155,Min Stack,Medium,Stack design
+9,Stacks & Queues,232,Implement Queue using Stacks,Easy,Queue implementation
+9,Stacks & Queues,225,Implement Stack using Queues,Easy,Stack implementation
+9,Stacks & Queues,150,Evaluate Reverse Polish,Medium,Stack application
+9,Stacks & Queues,739,Daily Temperatures,Medium,Monotonic stack
+9,Stacks & Queues,84,Largest Rectangle in Histogram,Hard,Monotonic stack
+9,Stacks & Queues,394,Decode String,Medium,Stack for nested structure
+9,Stacks & Queues,71,Simplify Path,Medium,Stack for path
+10-11,Recursion Basics,509,Fibonacci Number,Easy,Basic recursion
+10-11,Recursion Basics,70,Climbing Stairs,Easy,Recursive relation
+10-11,Recursion Basics,344,Reverse String,Easy,Simple recursion
+10-11,Recursion Basics,206,Reverse Linked List,Easy,Recursive list reversal
+10-11,Recursion Basics,21,Merge Two Sorted Lists,Easy,Recursive merging
+10-11,Recursion Basics,24,Swap Nodes in Pairs,Medium,Recursive swapping
+10-11,Recursion Basics,50,"Pow(x, n)",Medium,Divide and conquer
+10-11,Recursion Basics,779,K-th Symbol in Grammar,Medium,Recursive pattern
+10-11,Recursion Basics,22,Generate Parentheses,Medium,Backtracking recursion
+10-11,Recursion Basics,46,Permutations,Medium,Backtracking
+10-11,Recursion Basics,77,Combinations,Medium,Backtracking
+10-11,Recursion Basics,78,Subsets,Medium,Backtracking subsets
+12,Dynamic Programming,70,Climbing Stairs,Easy,DP introduction
+12,Dynamic Programming,509,Fibonacci Number,Easy,Memoization
+12,Dynamic Programming,198,House Robber,Medium,1D DP
+12,Dynamic Programming,213,House Robber II,Medium,Circular DP
+12,Dynamic Programming,322,Coin Change,Medium,Unbounded knapsack
+12,Dynamic Programming,518,Coin Change II,Medium,Combination DP
+12,Dynamic Programming,91,Decode Ways,Medium,String DP
+12,Dynamic Programming,62,Unique Paths,Medium,Grid DP
+12,Dynamic Programming,63,Unique Paths II,Medium,Grid DP with obstacles
+12,Dynamic Programming,55,Jump Game,Medium,Greedy/DP
+12,Dynamic Programming,45,Jump Game II,Medium,Greedy/DP optimization
+12,Dynamic Programming,139,Word Break,Medium,String DP
+12,Dynamic Programming,300,Longest Increasing Subsequence,Medium,Sequence DP
+12,Dynamic Programming,72,Edit Distance,Hard,2D DP
+12,Dynamic Programming,1143,Longest Common Subsequence,Medium,2D DP
+13,Quicksort & Quickselect,75,Sort Colors,Medium,Partition algorithm
+13,Quicksort & Quickselect,215,Kth Largest Element,Medium,Quickselect
+13,Quicksort & Quickselect,912,Sort an Array,Medium,Quicksort implementation
+13,Quicksort & Quickselect,347,Top K Frequent Elements,Medium,Quickselect variant
+13,Quicksort & Quickselect,973,K Closest Points,Medium,Quickselect application
+13,Quicksort & Quickselect,324,Wiggle Sort II,Medium,Partition + rearrange
+14,Linked Lists,206,Reverse Linked List,Easy,List reversal
+14,Linked Lists,21,Merge Two Sorted Lists,Easy,List merging
+14,Linked Lists,141,Linked List Cycle,Easy,Fast & slow pointers
+14,Linked Lists,142,Linked List Cycle II,Medium,Cycle detection
+14,Linked Lists,160,Intersection of Two Lists,Easy,Two pointer technique
+14,Linked Lists,234,Palindrome Linked List,Easy,Multiple techniques
+14,Linked Lists,83,Remove Duplicates from Sorted List,Easy,List traversal
+14,Linked Lists,203,Remove Linked List Elements,Easy,Node deletion
+14,Linked Lists,2,Add Two Numbers,Medium,List arithmetic
+14,Linked Lists,19,Remove Nth Node From End,Medium,Two pointer
+14,Linked Lists,143,Reorder List,Medium,Multiple operations
+14,Linked Lists,148,Sort List,Medium,Merge sort on list
+14,Linked Lists,23,Merge K Sorted Lists,Hard,Multiple list merging
+14,Linked Lists,25,Reverse Nodes in K-Group,Hard,Complex reversal
+15,Binary Search Trees,700,Search in a BST,Easy,BST search
+15,Binary Search Trees,701,Insert into a BST,Medium,BST insertion
+15,Binary Search Trees,450,Delete Node in a BST,Medium,BST deletion
+15,Binary Search Trees,98,Validate Binary Search Tree,Medium,BST validation
+15,Binary Search Trees,94,Binary Tree Inorder Traversal,Easy,BST traversal
+15,Binary Search Trees,144,Binary Tree Preorder Traversal,Easy,Tree traversal
+15,Binary Search Trees,145,Binary Tree Postorder Traversal,Easy,Tree traversal
+15,Binary Search Trees,102,Binary Tree Level Order,Medium,BFS traversal
+15,Binary Search Trees,230,Kth Smallest in BST,Medium,BST property
+15,Binary Search Trees,235,Lowest Common Ancestor BST,Medium,BST ancestor
+15,Binary Search Trees,108,Convert Sorted Array to BST,Easy,BST construction
+15,Binary Search Trees,110,Balanced Binary Tree,Easy,Tree property
+15,Binary Search Trees,104,Maximum Depth of Binary Tree,Easy,Tree depth
+15,Binary Search Trees,543,Diameter of Binary Tree,Easy,Tree property
+15,Binary Search Trees,226,Invert Binary Tree,Easy,Tree manipulation
+15,Binary Search Trees,100,Same Tree,Easy,Tree comparison
+15,Binary Search Trees,572,Subtree of Another Tree,Easy,Tree matching
+15,Binary Search Trees,236,Lowest Common Ancestor BT,Medium,Tree ancestor
+16,Heaps,215,Kth Largest Element,Medium,Heap basics
+16,Heaps,703,Kth Largest in Stream,Easy,Min heap
+16,Heaps,1046,Last Stone Weight,Easy,Max heap
+16,Heaps,973,K Closest Points to Origin,Medium,Heap application
+16,Heaps,347,Top K Frequent Elements,Medium,Frequency heap
+16,Heaps,692,Top K Frequent Words,Medium,Custom comparator
+16,Heaps,295,Find Median from Data Stream,Hard,Two heaps
+16,Heaps,502,IPO,Hard,Greedy + heap
+16,Heaps,23,Merge K Sorted Lists,Hard,Heap merging
+16,Heaps,621,Task Scheduler,Medium,Priority scheduling
+16,Heaps,355,Design Twitter,Medium,Heap design
+17,Tries,208,Implement Trie,Medium,Trie implementation
+17,Tries,211,Design Add and Search Words,Medium,Trie with wildcard
+17,Tries,212,Word Search II,Hard,Trie + backtracking
+17,Tries,14,Longest Common Prefix,Easy,Trie application
+17,Tries,648,Replace Words,Medium,Trie lookup
+17,Tries,677,Map Sum Pairs,Medium,Trie with values
+17,Tries,720,Longest Word in Dictionary,Medium,Trie building
+17,Tries,1268,Search Suggestions System,Medium,Autocomplete
+18,Graphs - DFS/BFS,200,Number of Islands,Medium,DFS/BFS basics
+18,Graphs - DFS/BFS,695,Max Area of Island,Medium,DFS application
+18,Graphs - DFS/BFS,133,Clone Graph,Medium,Graph traversal
+18,Graphs - DFS/BFS,207,Course Schedule,Medium,Cycle detection
+18,Graphs - DFS/BFS,210,Course Schedule II,Medium,Topological sort
+18,Graphs - DFS/BFS,417,Pacific Atlantic Water Flow,Medium,Multi-source DFS
+18,Graphs - DFS/BFS,994,Rotting Oranges,Medium,Multi-source BFS
+18,Graphs - DFS/BFS,542,01 Matrix,Medium,BFS shortest path
+18,Graphs - DFS/BFS,127,Word Ladder,Hard,BFS transformation
+18,Graphs - DFS/BFS,130,Surrounded Regions,Medium,DFS boundary
+18,Graphs - DFS/BFS,797,All Paths From Source to Target,Medium,DFS path finding
+18,Graphs - Weighted,743,Network Delay Time,Medium,Dijkstra's algorithm
+18,Graphs - Weighted,787,Cheapest Flights Within K Stops,Medium,Modified Dijkstra
+18,Graphs - Weighted,1584,Min Cost to Connect All Points,Medium,Minimum spanning tree
+18,Graphs - Weighted,778,Swim in Rising Water,Hard,Dijkstra variant
+18,Graphs - Union Find,684,Redundant Connection,Medium,Union find
+18,Graphs - Union Find,547,Number of Provinces,Medium,Connected components
+18,Graphs - Union Find,323,Number of Connected Components,Medium,Union find basics
+18,Graphs - Union Find,261,Graph Valid Tree,Medium,Cycle detection
+19,Space Complexity,344,Reverse String,Easy,In-place algorithms
+19,Space Complexity,283,Move Zeroes,Easy,In-place manipulation
+19,Space Complexity,876,Middle of Linked List,Easy,Space optimization
+19,Space Complexity,977,Squares of Sorted Array,Easy,Space-efficient sorting
+20,Optimization,53,Maximum Subarray,Medium,Kadane's algorithm
+20,Optimization,121,Best Time to Buy and Sell Stock,Easy,Greedy approach
+20,Optimization,122,Best Time to Buy and Sell Stock II,Medium,Greedy optimization
+20,Optimization,11,Container With Most Water,Medium,Two pointers
+20,Optimization,15,3Sum,Medium,Two pointers optimization
+20,Optimization,42,Trapping Rain Water,Hard,Multiple approaches
+20,Optimization,238,Product of Array Except Self,Medium,Prefix/suffix arrays
+20,Optimization,152,Maximum Product Subarray,Medium,Dynamic programming
+20,Optimization,435,Non-overlapping Intervals,Medium,Greedy intervals
+20,Optimization,452,Minimum Number of Arrows,Medium,Greedy optimization

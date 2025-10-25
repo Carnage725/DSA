@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "22ec6efee3100b91",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce1867d691ac916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "120b6b8552c14f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My DSA LeetCode Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My DSA LeetCode Sheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f786a23c9ccc59e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ca5d9a9f903bfc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "451510242e88ca41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "746c3e79a25170f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2cb34282e175cf37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e28fb074dae341cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66df24be350ab1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e0ecee5598cb20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My DSA LeetCode Sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for My DSA LeetCode Sheet"
+            }
+          },
+          {
+            "id": "0febad10f93fd648",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My DSA LeetCode Sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from My DSA LeetCode Sheet"
+            }
+          },
+          {
+            "id": "1a8525d386d06d04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d15cc5ec9b48e610",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My DSA LeetCode Sheet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of My DSA LeetCode Sheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "120b6b8552c14f6a",
+  "lastOpenFiles": [
+    "My DSA LeetCode Sheet.pdf",
+    "My DSA LeetCode Sheet.md"
+  ]
+}
