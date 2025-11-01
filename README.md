@@ -1,9 +1,8 @@
-This repo is to learn and complete:
+This repo is to help me learn DSA and solve leetcode problems:
 
-1. Common Sense Guide to DSA
-2. LeetCode 300
+1. Grind 75
 
-I use thonny to help me debug and understand leetcode and new concepts
+I use thonny to help me debug and understand leetcode problems and new concepts
 
 '''python
 pip install thonny
