@@ -1,3 +1,3 @@
 .DS_Store
-.venv/
+.virtual_env/
 images/
